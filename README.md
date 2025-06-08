@@ -14,7 +14,7 @@ A full-stack web-based real estate management platform designed to handle listin
 
 ---
 
-## 🧠 Project Overview
+## 🧠 Projectt Overview
 
 The Real Estate DBMS is built to streamline property management operations for agents, clients, property owners, and administrators. It enables:
 
